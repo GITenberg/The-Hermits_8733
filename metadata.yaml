@@ -1,5 +1,8 @@
 _repo: The-Hermits_8733
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kingsley, Charles
@@ -16,6 +19,8 @@ description: During the unjust and corrupt world of the Roman Empire, the Revere
   in harmony and brotherhood. He illustrates this point in his 1869 collection of
   biographical sketches of Saints Paul, Anthony, Basil, Simeon Stylites, Severinus,
   Malo, Brendan, and others.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8733#The-Hermits
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
